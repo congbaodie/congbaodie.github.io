@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>言玖笙&amp;&amp;大混子</title>
+  <title>言玖笙&amp;大混子</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-19T06:01:13.732Z</updated>
+  <updated>2020-04-19T13:57:40.915Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>About us</title>
+    <title>关于我们</title>
     <link href="http://yoursite.com/2020/04/19/about-us/"/>
     <id>http://yoursite.com/2020/04/19/about-us/</id>
     <published>2020-04-19T05:56:04.000Z</published>
-    <updated>2020-04-19T06:01:13.732Z</updated>
+    <updated>2020-04-19T13:57:40.915Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;姓名：言玖笙&lt;/p&gt;
+          &lt;p&gt;姓名：言玖笙and大混子&lt;/p&gt;
 
         
       
@@ -37,6 +37,8 @@
     </summary>
     
     
+    
+      <category term="介绍" scheme="http://yoursite.com/tags/%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
