@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-12T13:44:03.914Z</updated>
+  <updated>2020-06-14T15:07:07.760Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,26 +18,18 @@
   
   <entry>
     <title>毕业快乐</title>
-    <link href="http://yoursite.com/2020/06/12/%E6%AF%95%E4%B8%9A%E5%BF%AB%E4%B9%90/"/>
-    <id>http://yoursite.com/2020/06/12/%E6%AF%95%E4%B8%9A%E5%BF%AB%E4%B9%90/</id>
-    <published>2020-06-12T13:28:57.000Z</published>
-    <updated>2020-06-12T13:44:03.914Z</updated>
+    <link href="http://yoursite.com/2020/06/14/%E6%AF%95%E4%B8%9A%E5%BF%AB%E4%B9%90/"/>
+    <id>http://yoursite.com/2020/06/14/%E6%AF%95%E4%B8%9A%E5%BF%AB%E4%B9%90/</id>
+    <published>2020-06-14T14:55:39.000Z</published>
+    <updated>2020-06-14T15:07:07.760Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
+      &lt;p&gt;杨花落尽子规啼，闻道龙标过五溪。&lt;br&gt;我寄愁心与明月，随君直到夜郎西。&lt;/p&gt;
     
     </summary>
     
     
-    
-      <category term="假文艺" scheme="http://yoursite.com/tags/%E5%81%87%E6%96%87%E8%89%BA/"/>
     
   </entry>
   
